@@ -14,6 +14,12 @@ Execute the maze generator:
 ```
 ./laby_gen.pl size density nb_of_robots
 ```
+
+## Compilation:
+```
+make re
+```
+
 ## Usage:
 Execute the following command:
 
