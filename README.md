@@ -4,7 +4,7 @@
 Move the robots from the entrance (start) to the exit (end) in the minimum amount of moves.
 The description of the maze is given in the standard input.
 
-<small style="color: indianred;"><em>PD: only one robot per room, if it's occupied the robot have to wait until it's not.</em></small>
+###### PD: only one robot per room, if it's occupied the robot have to wait until it's not.
 
 ## Creation of maze descriptions
 Execute the maze generator:
